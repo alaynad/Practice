@@ -14,6 +14,7 @@ h1 {
 
 p {
 	font-family: 'Quicksand', sans-serif;
+	font-size: 25px;
 
 }
 
@@ -32,4 +33,23 @@ h3 {
 
 .heading {
 	background-color: #B16880;
+}
+
+a:hover {
+	color: #B16880;
+}
+
+
+ul {
+	font-size: 25px;
+}
+
+img {
+	border: 6px solid #B16880;
+	border-radius:10%;
+}
+
+a {
+	font-size: 25px;
+	color: #20A39E;
 }
